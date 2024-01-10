@@ -1,6 +1,5 @@
 # 🎈 About Me:
-Hi, I'm Ángel, a Web Developer from Spain.<br>
-I'm currently looking to contribute to international projects!
+
 - 👯 I’m looking to collaborate on international projects!
 - 📫 How to reach me: angelmldev@gmail.com
 - ⚡ Fun fact:  The thunder emoji has nothing to do with fun facts but everyone still uses it!
